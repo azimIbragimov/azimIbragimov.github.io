@@ -1,0 +1,90 @@
+:root {
+    --background_primary: #353543;
+}
+
+.html {
+    background-color: var(--background_primary);
+}
+
+body,
+div,
+header {
+    margin: 0;
+    padding: 0;
+}
+
+
+.page {
+    background-color: var(--background_primary);
+    margin-top: 0px;
+}
+
+.column {
+    float: left;
+    width: 48%;
+    height: auto;
+
+}
+
+.container {
+    clear: both;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.container img {
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+
+.NameTitle {
+    color: #fff;
+    font-size: 50px;
+    margin: 20px;
+    padding: 0px;
+    text-align: center;
+    /* font-family: 'Roboto', sans-serif; */
+}
+
+.normaltext {
+    color: #fff;
+    font-size: 20px;
+    text-align: left;
+    /* font-family: "Roboto", sans-serif; */
+}
+
+.float-container {
+    height: "50vh";
+    width:auto;
+    display: flex;
+    background-color: #3F3F50;
+    color: #3F3F50;
+    padding: 5%;
+    margin: 5%;
+
+}
+
+.float-subcontainer {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+    background-color: var(--background_primary);
+    padding: 5%;
+    font-weight: bold;
+}
+
+.float-subcontainer:hover {
+    background-color: gold;
+    color: #3F3F50;
+    text-decoration: none;
+}

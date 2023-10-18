@@ -1,0 +1,81 @@
+
+.HeaderTitle {
+    color: gold;
+    font-size: 50px;
+    margin: 20px;
+    padding: 0px;
+    text-align: center;
+    /* font-family: 'Roboto', sans-serif; */
+}
+
+.HeaderTitle:hover {
+	color: gold;
+}
+
+.NameTitle {
+    color: #fff;
+    font-size: 40px;
+    margin: 20px;
+    padding: 0px;
+    text-align: center;
+    /* font-family: 'Roboto', sans-serif; */
+}
+
+.NameTitle:hover {
+	color: gold;
+}
+
+.PositionTitle {
+    color: #fff;
+    font-size: 30px;
+    margin: 20px;
+    padding: 0px;
+    text-align: center;
+    /* font-family: 'Roboto', sans-serif; */
+}
+
+.PositionTitle:hover {
+	color: gold;
+}
+
+.normaltext {
+    color: #fff;
+    font-size: 20px;
+    text-align: left;
+    /* font-family: "Roboto", sans-serif; */
+}
+
+.normaltext:hover {
+	color: gold;
+}
+
+.pageContainer{
+	padding: 20px;
+	margin: 20px;
+}
+
+.SubHeaderTitle {
+    color: gold;
+    font-size: 30px;
+    padding: 0px;
+    text-align: left;
+    /* font-family: 'Roboto', sans-serif; */
+}
+
+.SubHeaderTitle:hover {
+	color: gold;
+}
+
+.CompanyTitle {
+    color: #E6BE8A;
+    font-size: 20px;
+    padding: 0px;
+    text-align: left;
+    /* font-family: 'Roboto', sans-serif; */
+    /*make bold*/
+    font-weight: bold;
+}
+
+.CompanyTitle:hover {
+	color: gold;
+}
