@@ -1,10 +1,10 @@
 import "./App.css";
 import NavBar from "./components/Navbar";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Home from "./pages/Home";
-import Resume from "./pages/Resume";
-import Research from "./pages/Research";
-import Contact from "./pages/Contact";
+import Home from "./pages/Home/Home";
+import Resume from "./pages/Resume/Resume";
+import Research from "./pages/Research/Research";
+import Contact from "./pages/Contact/Contact";
 
 function App() {
   return (

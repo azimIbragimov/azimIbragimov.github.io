@@ -1,5 +1,5 @@
 
-.HeaderTitle {
+.resume_HeaderTitle {
     color: gold;
     font-size: 50px;
     margin: 20px;
@@ -8,11 +8,11 @@
     /* font-family: 'Roboto', sans-serif; */
 }
 
-.HeaderTitle:hover {
+.resume_HeaderTitle:hover {
 	color: gold;
 }
 
-.NameTitle {
+.resume_NameTitle {
     color: #fff;
     font-size: 40px;
     margin: 20px;
@@ -21,11 +21,11 @@
     /* font-family: 'Roboto', sans-serif; */
 }
 
-.NameTitle:hover {
+.resume_NameTitle:hover {
 	color: gold;
 }
 
-.PositionTitle {
+.resume_PositionTitle {
     color: #fff;
     font-size: 30px;
     margin: 20px;
@@ -34,27 +34,27 @@
     /* font-family: 'Roboto', sans-serif; */
 }
 
-.PositionTitle:hover {
+.resume_PositionTitle:hover {
 	color: gold;
 }
 
-.normaltext {
+.resume_normaltext {
     color: #fff;
     font-size: 20px;
     text-align: left;
     /* font-family: "Roboto", sans-serif; */
 }
 
-.normaltext:hover {
+.resume_normaltext:hover {
 	color: gold;
 }
 
-.pageContainer{
+.resume_pageContainer{
 	padding: 20px;
 	margin: 20px;
 }
 
-.SubHeaderTitle {
+.resume_SubHeaderTitle {
     color: gold;
     font-size: 30px;
     padding: 0px;
@@ -62,11 +62,11 @@
     /* font-family: 'Roboto', sans-serif; */
 }
 
-.SubHeaderTitle:hover {
+.resume_SubHeaderTitle:hover {
 	color: gold;
 }
 
-.CompanyTitle {
+.resume_CompanyTitle {
     color: #E6BE8A;
     font-size: 20px;
     padding: 0px;
@@ -76,6 +76,6 @@
     font-weight: bold;
 }
 
-.CompanyTitle:hover {
+.resume_CompanyTitle:hover {
 	color: gold;
 }

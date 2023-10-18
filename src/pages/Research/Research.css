@@ -1,0 +1,25 @@
+.HeaderTitle {
+    color: gold;
+    font-size: 50px;
+    margin: 20px;
+    padding: 0px;
+    text-align: center;
+    /* font-family: 'Roboto', sans-serif; */
+}
+
+.HeaderTitle:hover {
+	color: gold;
+}
+.normaltext {
+    color: #fff;
+    font-size: 30px;
+    margin: 20px;
+    padding: 0px;
+    text-align: center;
+ 
+
+}
+
+.normaltext:hover {
+	color: gold;
+}
